@@ -6,7 +6,6 @@ Taqwem for iOS built with SwiftUI
 https://apps.apple.com/sa/app/taqwem/id1586320391?l=ar
 
 
-![Simulator Screen Shot - iPhone 12 - 2022-08-11 at 14 44 39](https://user-images.githubusercontent.com/42190049/184127045-1f9b15d2-6dbf-4370-839c-7b919fd69ee0.png)
 ![Simulator Screen Shot - iPhone 12 - 2022-08-11 at 14 45 00](https://user-images.githubusercontent.com/42190049/184127057-e50cb9a5-1bff-4a96-b3bf-eb087fe8b64b.png)
 ![Simulator Screen Shot - iPhone 12 - 2022-08-11 at 14 45 07](https://user-images.githubusercontent.com/42190049/184127062-ecb423a2-9b41-4351-92fc-2dbff3452481.png)
 ![Simulator Screen Shot - iPhone 12 - 2022-08-11 at 14 45 13](https://user-images.githubusercontent.com/42190049/184127064-0052c682-599e-40f4-9075-0d6263746fc3.png)
